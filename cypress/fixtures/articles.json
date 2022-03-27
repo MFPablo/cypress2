@@ -1,0 +1,62 @@
+{
+    "articles":[
+       {
+          "slug":"New-Twosdscsd-Article-699",
+          "title":"New Twosdscsd Article",
+          "description":"New Twosd Article",
+          "body":"Article Twosd Test",
+          "tagList":[
+             
+          ],
+          "createdAt":"2021-12-01T02:39:08.561Z",
+          "updatedAt":"2021-12-01T02:39:08.561Z",
+          "favorited":false,
+          "favoritesCount":15,
+          "author":{
+             "username":"test1",
+             "bio":null,
+             "image":"https://api.realworld.io/images/smiley-cyrus.jpeg",
+             "following":false
+          }
+       },
+       {
+          "slug":"New-Twosdsc-Article-699",
+          "title":"New Twosdsc Article",
+          "description":"New Twosd Article",
+          "body":"Article Twosd Test",
+          "tagList":[
+             
+          ],
+          "createdAt":"2021-12-01T01:35:45.265Z",
+          "updatedAt":"2021-12-01T01:35:45.265Z",
+          "favorited":true,
+          "favoritesCount":0,
+          "author":{
+             "username":"test1",
+             "bio":null,
+             "image":"https://api.realworld.io/images/smiley-cyrus.jpeg",
+             "following":false
+          }
+       },
+       {
+          "slug":"New-Twosds-Article-699",
+          "title":"New Twosds Article",
+          "description":"New Twosd Article",
+          "body":"Article Twosd Test",
+          "tagList":[
+             
+          ],
+          "createdAt":"2021-12-01T01:22:05.796Z",
+          "updatedAt":"2021-12-01T01:22:05.796Z",
+          "favorited":false,
+          "favoritesCount":-1,
+          "author":{
+             "username":"test1",
+             "bio":null,
+             "image":"https://api.realworld.io/images/smiley-cyrus.jpeg",
+             "following":false
+          }
+       }
+    ],
+    "articlesCount":3
+ }
